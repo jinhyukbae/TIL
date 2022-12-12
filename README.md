@@ -97,35 +97,27 @@
 
 43강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C43%EA%B0%95.py
 
-44강 :
+44강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C44%EA%B0%95.py
 
-45강 :
+45강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C45%EA%B0%95.py
 
-46강 :
+47~50강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C47~50%EA%B0%95.py
 
-47강 :
+51강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C51%EA%B0%95.py
 
-48강 :
+52강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C52%EA%B0%95.py
 
-49강 :
+53강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C53%EA%B0%95.py
 
-50강 :
+54강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C54%EA%B0%95.py
 
-51강 :
+55강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C55%EA%B0%95.py
 
-52강 :
+56강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%98%BC%EA%B3%B5%ED%8C%8C56%EA%B0%95.py
 
-53강 :
+57강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%E2%98%85%ED%98%BC%EA%B3%B5%ED%8C%8C57%EA%B0%95.py
 
-54강 :
-
-55강 :
-
-56강 :
-
-57강 :
-
-58강 :
+58강 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%E2%98%85%ED%98%BC%EA%B3%B5%ED%8C%8C58%EA%B0%95.py
 ## etc
 
 
