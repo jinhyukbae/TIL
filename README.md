@@ -22,11 +22,16 @@
 * 저 PER 전략 백테스팅 데이터: https://github.com/jinhyukbae/soloproject/blob/bc9b01fb45e68573b7925c9ab3d3b4827242b81b/financedateranalysis/%EC%A0%80%20PER%20%EC%A0%84%EB%9E%B5.ipynb
 * 주소록 : https://github.com/jinhyukbae/soloproject/blob/bc9b01fb45e68573b7925c9ab3d3b4827242b81b/trading/jusorook.py
 * 나누어 떨어지는 숫자 확인 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%A5%BC%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
-* 
+* inch->cm 변환 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/inch%EB%A5%BC%20cm%EC%9C%BC%EB%A1%9C%20%EB%B0%94%EA%BF%94%EC%A3%BC%EB%8A%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
+* bmi 구하는 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/BMI%EA%B5%AC%ED%95%98%EB%8A%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
+* 1RM 구하는 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/1RM%20%EA%B3%84%EC%82%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
+* 날짜입력 하면 계절 알려주는 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%EA%B3%84%EC%A0%88%ED%99%95%EC%9D%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
+* 퇴직금 계산 프로그램 : https://github.com/jinhyukbae/pythonstudy1/blob/f39bb59c5fdef2d21ead9e8ea1ccb56585f0d17d/%ED%87%B4%EC%A7%81%EA%B8%88%EA%B3%84%EC%82%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py
 
 ## 학습파일
 
-### 혼자공부하는파이
+### 혼자공부하는파이썬
+
 * 3강 : https://github.com/jinhyukbae/pythonstudy1/blob/e651003898e638810a45b609f309e2185b99fc55/%ED%98%BC%EA%B3%B5%ED%8C%8C3%EA%B0%95.py* 
 * 4강 : https://github.com/jinhyukbae/pythonstudy1/blob/e651003898e638810a45b609f309e2185b99fc55/%ED%98%BC%EA%B3%B5%ED%8C%8C4%EA%B0%95.py
 * 5강 : https://github.com/jinhyukbae/pythonstudy1/blob/e651003898e638810a45b609f309e2185b99fc55/%ED%98%BC%EA%B3%B5%ED%8C%8C5%EA%B0%95.py
