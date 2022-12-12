@@ -34,7 +34,7 @@
 ### 혼자공부하는머신러닝딥러닝
 * 3강 마켓과 머신러닝 : https://github.com/jinhyukbae/learning/blob/70bdfef2aa46d84e11410f076d6306ef98f7ac23/3%EA%B0%95%20%EB%A7%88%EC%BC%93%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.ipynb
 * 4강 훈련세트와 테스트 세트로 나누어 사용하기 : https://github.com/jinhyukbae/learning/blob/70bdfef2aa46d84e11410f076d6306ef98f7ac23/4%EA%B0%95%20%ED%9B%88%EB%A0%A8%EC%84%B8%ED%8A%B8%EC%99%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%B8%ED%8A%B8%EB%A1%9C%20%EB%82%98%EB%88%84%EC%96%B4%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.ipynb
-* 5강 5강 정교한 결과 도출을 위한 데이터 전처리 알아보기 : https://github.com/jinhyukbae/learning/blob/70bdfef2aa46d84e11410f076d6306ef98f7ac23/5%EA%B0%95%20%EC%A0%95%EA%B5%90%ED%95%9C%20%EA%B2%B0%EA%B3%BC%20%EB%8F%84%EC%B6%9C%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%20(1).ipynb
+* 5강 정교한 결과 도출을 위한 데이터 전처리 알아보기 : https://github.com/jinhyukbae/learning/blob/70bdfef2aa46d84e11410f076d6306ef98f7ac23/5%EA%B0%95%20%EC%A0%95%EA%B5%90%ED%95%9C%20%EA%B2%B0%EA%B3%BC%20%EB%8F%84%EC%B6%9C%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%20(1).ipynb
 
 ### 혼자공부하는파이썬
 
