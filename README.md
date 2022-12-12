@@ -13,6 +13,7 @@
 ## 프론트엔드
 * counter(클릭하면 숫자가 +- 되는 웹페이지) : https://github.com/jinhyukbae/counter/blob/78ad91195d2f669aa4307666b72a94405412c122/index.html
 * colorflipper(클릭하면 색깔 바뀌는 웹페이지) : https://github.com/jinhyukbae/colorflipper/blob/bc2d64b203a1e972d8de4be89dbbc33eaf2337b3/index.html
+* 생활코딩 자바스크립트 공부 페이지 : https://jinhyukbae.github.io/js-/1.html
 
 ## 백엔드
 * ETF 정보 조회 프로그램 : https://github.com/jinhyukbae/ETF/blob/0d2b120da3f745c7054b7a055d4d13d72346c35d/ETF_INDEX.py
@@ -20,4 +21,11 @@
 * 변동성 돌파 전략 백테스팅 데이터https://github.com/jinhyukbae/soloproject/blob/bc9b01fb45e68573b7925c9ab3d3b4827242b81b/financedateranalysis/%EB%B3%80%EB%8F%99%EC%84%B1%20%EB%8F%8C%ED%8C%8C%20%EC%A0%84%EB%9E%B5.ipynb
 * 저 PER 전략 백테스팅 데이터: https://github.com/jinhyukbae/soloproject/blob/bc9b01fb45e68573b7925c9ab3d3b4827242b81b/financedateranalysis/%EC%A0%80%20PER%20%EC%A0%84%EB%9E%B5.ipynb
 * 주소록 : https://github.com/jinhyukbae/soloproject/blob/bc9b01fb45e68573b7925c9ab3d3b4827242b81b/trading/jusorook.py
+
+## 학습파일
+https://github.com/jinhyukbae/pythonstudy1.git
+
 ## etc
+
+
+
