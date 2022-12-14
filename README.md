@@ -15,6 +15,7 @@
 * colorflipper(클릭하면 색깔 바뀌는 웹페이지) : https://github.com/jinhyukbae/colorflipper/blob/bc2d64b203a1e972d8de4be89dbbc33eaf2337b3/index.html
 * 생활코딩 자바스크립트 공부 페이지 : https://jinhyukbae.github.io/js-/1.html
 * 생활 코딩 html css 공부 페이지 : https://jinhyukbae.github.io/my-first-web-site/index.html
+* streamlit을 이용한 강원랜드 AI커피머신 무인카페 판매량 데이터분석 & 데이터 시각화 : https://jinhyukbae-streamlit-test-cafe2app-3nehob.streamlit.app/#best
 
 ## 백엔드
 * ETF 정보 조회 프로그램 : https://github.com/jinhyukbae/ETF/blob/0d2b120da3f745c7054b7a055d4d13d72346c35d/ETF_INDEX.py
