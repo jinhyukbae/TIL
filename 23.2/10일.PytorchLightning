@@ -1,0 +1,11 @@
+# PytorchLightning
+
+## PytorchLightning 란?
+* PyTorch에 대한 High-level 인터페이스를 제공하는 오픈소스 Python 라이브러리
+  * 머신러닝은 GPU나 TPU, 그리고 16-bit precision, 분산학습 등 복잡한 조건에서는 코드가 복잡해지기 마련인데 PytorchLighting은 이런문제를 코드의 추상화를 통해 해결 할 수 있다.
+  
+
+## Pytorch 보다 나은 점
+* callback 함수가 텐서플로우 처럼 라이브러리로 내장되어 있어 직접 정의할 필요가 없어 편하다.
+* dataset, dataloader, train/valid/test loop 등이 fit 하나로 축약이 되어 편리하다.
+
